@@ -1,2 +1,2 @@
 # Petstagram
-SofUni Django Workshop 1
+SoftUni Django Workshop 1
